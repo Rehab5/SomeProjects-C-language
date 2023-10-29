@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697107648 source:f:\iti\1-c lang\day5-tasks\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

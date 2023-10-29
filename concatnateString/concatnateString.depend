@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697016754 source:f:\iti\1-c lang\day4-tasks\concatnatestring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

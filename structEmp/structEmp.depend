@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697106274 source:f:\iti\1-c lang\day5-tasks\structemp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
